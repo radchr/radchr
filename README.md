@@ -9,4 +9,5 @@ radchr/radchr is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 
 emoji  -- https://www.webfx.com/tools/emoji-cheat-sheet/
+https://gist.github.com/rxaviers/7360908
 --->
