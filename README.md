@@ -11,4 +11,5 @@ You can click the Preview link to take a look at your changes.
 emoji  -- https://www.webfx.com/tools/emoji-cheat-sheet/
 https://gist.github.com/rxaviers/7360908
 --->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=radchr&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
